@@ -48,8 +48,8 @@ bot = Client("bot",
              api_id= api_id,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
              api_hash=api_hash)
 
-owner_id = OWNER
-auth_users = ADMINS
+owner_id = 5170349400
+auth_users = 7597020624
 
 
 photo = "youtube.jpg"
@@ -184,7 +184,7 @@ async def account_login(bot: Client, m: Message):
     raw_text3 = input3.text
 
     if raw_text3 == 'df':
-        MR = " S A K S H A M "
+        MR = " V E D  P A T E L"
     else:
         MR = raw_text3
     await input3.delete(True)
@@ -444,7 +444,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by:SAKSHAM \n\n"
+                            f"└── 🤖 Powered by:VED PATEL \n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                    prog = await m.reply_text(Show)
@@ -468,7 +468,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by: VED PATEL \n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
@@ -495,7 +495,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by: VED PATEL\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
